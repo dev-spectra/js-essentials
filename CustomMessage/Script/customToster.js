@@ -1,10 +1,11 @@
 const root = window.location.origin;
-
+const git_repo = 'https://cdn.jsdelivr.net/gh/dev-spectra/js-essentials@main';
+const css_path = '/CustomMessage/StyleSheet/toster.css'
 export function ShowCustomAlert(type, message, element) {
     const link = document.createElement('link');
     link.rel = 'stylesheet';
     //link.href = `${root}/css/alertmessage.css`;
-    link.href = `https://raw.githubusercontent.com/dev-spectra/js-essentials/refs/heads/main/CustomMessage/StyleSheet/toster.css`;
+    link.href = `${git_repo}${css_path}`;
     document.head.appendChild(link);
 
     //const parent = element.closest('#parent');

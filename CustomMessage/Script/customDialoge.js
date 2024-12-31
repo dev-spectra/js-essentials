@@ -1,8 +1,11 @@
+const root = window.location.origin;
+const git_repo = 'https://cdn.jsdelivr.net/gh/dev-spectra/js-essentials@main';
+const css_path = '/CustomMessage/StyleSheet/messageDialoge.css'
 export function ShowAlertConfirmation(mTitle, mMessage, mTrueButton, mFalseButton, parent) {
     const link = document.createElement('link');
     link.rel = 'stylesheet';
     //link.href = link.href = `${root}/css/alertmessage.css`;
-    link.href = `https://raw.githubusercontent.com/dev-spectra/js-essentials/refs/heads/main/CustomMessage/StyleSheet/messageDialoge.css`;
+    link.href = `${git_repo}${css_path}`;
     document.head.appendChild(link);
     return new Promise((resolve) => {
 
