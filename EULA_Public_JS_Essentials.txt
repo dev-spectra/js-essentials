@@ -1,51 +1,37 @@
-### Public End-User License Agreement (EULA)
+ Public End-User License Agreement (EULA)
 
 **Published Date**: 31-12-2024  
 **Owner**: Spectra Systems & Solutions  
 **Contact**: info.spectrasolutions@gmail.com  
 
----
-
-### 1. License Grant
+ 1. License Grant
 The Licensor grants the End User a worldwide, non-exclusive, royalty-free, revocable license 
 to use, modify, and distribute the library in accordance with this Agreement.
 
----
-
-### 2. Restrictions
+ 2. Restrictions
 The End User agrees not to:
 - Use the library for any illegal or unauthorized purpose.
 - Remove or alter any copyright notices or attributions included in the library.
 - Redistribute the library as part of a competing library or product without 
   significant modification or attribution.
 
----
-
-### 3. Modifications
+ 3. Modifications
 The End User may modify the library for personal or commercial use, provided that any 
 distributed derivative works include clear attribution to the original library.
 
----
-
-### 4. Warranty Disclaimer
+ 4. Warranty Disclaimer
 The library is provided "AS IS" without warranty of any kind. The Licensor disclaims all 
 warranties, express or implied, including but not limited to warranties of merchantability, 
 fitness for a particular purpose, and non-infringement. The End User uses the library at 
 their own risk.
 
----
-
-### 5. Limitation of Liability
+ 5. Limitation of Liability
 In no event shall the Licensor be liable for any damages, including but not limited to direct, 
 indirect, incidental, or consequential damages, arising from the use of the library.
 
----
-
-### 6. Termination
+ 6. Termination
 This Agreement will terminate immediately upon breach of any of its terms. Upon termination, 
 the End User must cease all use of the library and destroy all copies.
 
----
-
-### 7. Contact
+ 7. Contact
 For inquiries regarding this Agreement, please contact info.spectrasolutions@gmail.com.
