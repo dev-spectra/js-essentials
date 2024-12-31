@@ -3,7 +3,8 @@ const root = window.location.origin;
 export function ShowCustomAlert(type, message, element) {
     const link = document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = `${root}/css/alertmessage.css`;
+    //link.href = `${root}/css/alertmessage.css`;
+    link.href = `https://github.com/dev-spectra/js-essentials/raw/refs/heads/main/CustomMessage/StyleSheet/toster.css`;
     document.head.appendChild(link);
 
     //const parent = element.closest('#parent');

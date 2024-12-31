@@ -1,7 +1,8 @@
 export function ShowAlertConfirmation(mTitle, mMessage, mTrueButton, mFalseButton, parent) {
     const link = document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = link.href = `${root}/css/alertmessage.css`;
+    //link.href = link.href = `${root}/css/alertmessage.css`;
+    link.href = `https://github.com/dev-spectra/js-essentials/raw/refs/heads/main/CustomMessage/StyleSheet/messageDialoge.css`;
     document.head.appendChild(link);
     return new Promise((resolve) => {
 
