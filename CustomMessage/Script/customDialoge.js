@@ -1,5 +1,5 @@
 const root = window.location.origin;
-const core_deliver = 'https://cors-anywhere.herokuapp.com';
+const core_deliver = 'https://cors-anywhere.herokuapp.com/';
 const css_git_path = 'https://raw.githubusercontent.com/dev-spectra/js-essentials/refs/heads/main/CustomMessage/StyleSheet/messageDialoge.css';
 export function ShowAlertConfirmation(mTitle, mMessage, mTrueButton, mFalseButton, parent) {
     const link = document.createElement('link');
