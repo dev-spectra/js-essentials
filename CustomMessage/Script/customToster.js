@@ -1,5 +1,6 @@
 const root = window.location.origin;
-
+const git_repo = 'https://cdn.jsdelivr.net/gh/dev-spectra/js-essentials@main';
+const css_path = '/CustomMessage/StyleSheet/messageDialoge.css'
 export function ShowCustomAlert(type, message, element) {
     const link = document.createElement('link');
     link.rel = 'stylesheet';
