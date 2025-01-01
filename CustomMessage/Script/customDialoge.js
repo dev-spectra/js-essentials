@@ -1,6 +1,6 @@
 const root = window.location.origin;
-const git_repo = 'https://cdn.jsdelivr.net/gh/dev-spectra/js-essentials@main';
-const css_path = '/CustomMessage/StyleSheet/messageDialoge.css'
+const git_repo = 'https://spectrasolutions.in/assets/repos';
+const css_path = '/js-essentials/CustomMessage/StyleSheet/messageDialoge.css'
 export function ShowAlertConfirmation(mTitle, mMessage, mTrueButton, mFalseButton, parent) {
     const link = document.createElement('link');
     link.rel = 'stylesheet';
